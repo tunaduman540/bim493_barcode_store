@@ -1,5 +1,6 @@
 # bim493_barcode_store
-
+Tuna Duman 10975597542
+Cenker Karalar 29860177370
 BIM 493 Barcode Product Store App
 
 ## Getting Started
